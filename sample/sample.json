@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "name": "sample1",
+      "email": "sample1@gmail.com",
+      "phone": "0884441",
+      "id": 1
+    },
+    {
+      "name": "sample2",
+      "email": "sample2@gmail.com",
+      "phone": "078912",
+      "id": 2
+    },
+    {
+      "name": "sample3",
+      "email": "sample3@gmail.com",
+      "phone": "4354545",
+      "id": 3
+    },
+    {
+      "name": "sample4",
+      "email": "sample4@gmail.com",
+      "phone": "054654656",
+      "id": 4
+    }
+  ]
+}
